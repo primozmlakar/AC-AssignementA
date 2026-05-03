@@ -1,4 +1,4 @@
-# AC-AssignementA
+# AC - Assignement A
 
 In this assignment you will design and build a command-line file vault that protects stored files with password-based authenticated encryption. The cryptographic design is yours to make — you must choose your algorithms, parameters, and construction, and justify every decision. You will then analyse a deliberately broken vault implementation, identify its flaws, and demonstrate at least one of them in code.
 
